@@ -85,5 +85,5 @@ FOR DOCUMENTS
 <img width="810" height="652" alt="Screenshot 2026-09-15 225401" src="https://github.com/user-attachments/assets/60f6fc45-010c-4560-b19a-e536518f1b33" />
 
 
-## CONCLUSION
+## Result
 In conclusion, prompt engineering serves as the essential communication bridge that bridges human intent and machine understanding to maximize the performance of artificial intelligence. Prompt engineering is important because it directly controls the quality, accuracy, and relevance of outputs from artificial intelligence. Traditional prompt engineering is largely obsolete, but the core discipline has evolved into context engineering and system architecture design. 
