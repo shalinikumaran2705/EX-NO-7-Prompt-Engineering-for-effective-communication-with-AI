@@ -1,4 +1,6 @@
-# EX-NO-7-Prompt-Engineering-for-effective-communication-with-AI
+# Experiment - 7
+# Date: 16/11/2026
+# 7. Prompt Engineering for effective communication with AI
 ## AIM
 The main purpose of prompt engineering is to guide artificial intelligence models to produce accurate, relevant, and useful outputs by designing clear and structured instructions. Prompt engineering is the process of structuring an instruction so an AI model gives an accurate and useful response
 ### GOALS OF PROMPT ENGINEERING
@@ -77,6 +79,11 @@ FOR DOCUMENTS
 •	Clarity matters: Specific instructions and explicit constraints prevent vague or off-target responses.
 •	Cost-effective optimization: Adjusting prompts is the fastest and cheapest way to improve output quality without retraining models.
 •	Advanced techniques: Methods like chain-of-thought and role assignments help guide logical reasoning and formatting
+<img width="932" height="827" alt="Screenshot 2026-09-15 224522" src="https://github.com/user-attachments/assets/d67ab9d3-785c-469c-aaf5-47db3b46c2e0" />
+<img width="1057" height="645" alt="Screenshot 2026-09-15 225111" src="https://github.com/user-attachments/assets/99224fb6-6c2a-49c8-a778-37532159591a" />
+<img width="947" height="837" alt="Screenshot 2026-09-15 225314" src="https://github.com/user-attachments/assets/96f6e125-f40d-4e2d-b506-06fb81ec5ae3" />
+<img width="810" height="652" alt="Screenshot 2026-09-15 225401" src="https://github.com/user-attachments/assets/60f6fc45-010c-4560-b19a-e536518f1b33" />
+
 
 ## CONCLUSION
 In conclusion, prompt engineering serves as the essential communication bridge that bridges human intent and machine understanding to maximize the performance of artificial intelligence. Prompt engineering is important because it directly controls the quality, accuracy, and relevance of outputs from artificial intelligence. Traditional prompt engineering is largely obsolete, but the core discipline has evolved into context engineering and system architecture design. 
